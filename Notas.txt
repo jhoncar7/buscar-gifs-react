@@ -1,0 +1,13 @@
+Inicio de Proyecto {
+    yarn create vite
+    luego ejecutamos "yarn" o "yarn install" para instalar las dependencias
+    yarn dev -> se ejecuta en desarrollo en el puerto http://localhost:5173/
+}
+
+build de prod {
+    yarn build -> genera una carpeta dist con los archivos de producción
+}
+
+Link despliegue en netlify{
+    https://search-gifs-react.netlify.app/
+}
